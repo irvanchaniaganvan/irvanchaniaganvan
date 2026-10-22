@@ -1,16 +1,23 @@
-## Hi there 👋
+# Portofolio Irvan Chaniagan
 
-<!--
-**irvanchaniaganvan/irvanchaniaganvan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Struktur proyek situs statis ini dipisahkan berdasarkan tanggung jawab agar lebih mudah dirawat.
 
-Here are some ideas to get you started:
+```
+.
+├── index.html                 # Halaman utama
+├── pages/                     # Halaman selain beranda
+│   ├── about.html
+│   ├── contact.html
+│   └── portofolio.html
+└── assets/                    # Aset antarmuka
+    ├── css/
+    │   └── style.css
+    ├── js/
+    │   └── script.js
+    └── images/
+        ├── backgrounds/
+        ├── icons/
+        └── projects/
+```
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+`index.html` sengaja tetap berada di root supaya kompatibel dengan hosting statis seperti GitHub Pages. Saat menambahkan gambar, simpan pada kategori yang sesuai di `assets/images/`; stylesheet di `assets/css/`; dan JavaScript di `assets/js/`.
