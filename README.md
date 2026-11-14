@@ -38,7 +38,7 @@ Mahasiswa D4 Teknik Mekatronika di Politeknik Negeri Batam. Aku belajar menjemba
 
 <!-- GANTI: tambah atau hapus icon sesuai yang benar-benar kamu pakai. Daftar icon: https://skillicons.dev -->
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=flutter,dart,arduino,git,github,vscode&theme=dark" alt="Tools" />
+  <img src="https://skillicons.dev/icons?i=html,python,dart,flutter,arduino,git,github,vscode&theme=dark" alt="Tools" />
 </p>
 
 ## 📬 Kontak
